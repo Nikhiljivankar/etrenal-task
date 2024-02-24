@@ -1,0 +1,26 @@
+{
+  "posts": [
+    { "id": 1, "title": "Introduction to Node.js", "content": "..." },
+    {
+      "id": 2,
+      "title": "Asynchronous Programming in JavaScript",
+      "content": "..."
+    },
+    {
+      "id": 3,
+      "title": "Asynchronous Programming in JavaScript 2",
+      "content": "..."
+    },
+    {
+      "id": 4,
+      "title": "Asynchronous Programming in JavaScript 3",
+      "content": "..."
+    },
+    {
+      "id": 5,
+      "title": "Asynchronous Programming in JavaScript 4",
+      "content": "..."
+    },
+    { "id": 6, "title": "Asynchronous Programming in node", "content": "..." }
+  ]
+}
